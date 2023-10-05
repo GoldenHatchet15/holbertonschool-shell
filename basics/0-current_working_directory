@@ -1,0 +1,2 @@
+#!/bin/bash
+emacs --batch --eval '(princ (expand-file-name default-directory))'
